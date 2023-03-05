@@ -1,0 +1,13 @@
+.navbar{
+    display: flex;
+    padding: 1px;
+    background-color:lawngreen;
+    font-size: 1fr;
+    padding-left: 20px;
+    justify-content:space-around;
+}
+.nav button{
+    border: 70px;
+    padding-right: 2rem;
+
+}

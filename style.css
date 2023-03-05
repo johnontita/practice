@@ -15,6 +15,14 @@ nav a{
 nav button{
     background-color: green;
     border: none;
-    border-radius: 16px;
+    border-radius: 16px;rr
     padding: 6px;
+    color:beige;
+}
+.nav a{
+    padding-left: 20px;
+
+}
+nav a :hover{
+    color: brown;
 }

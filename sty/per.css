@@ -1,0 +1,17 @@
+.navbar{
+    display:flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    align-items: center;
+}
+.nav button{
+    background-color:blue;
+    border:none;
+    border-radius: 16px;
+    padding: 6px;
+    color:beige;
+
+}
+.nav h3{
+    text-decoration: blue;
+}
